@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "audiLogoSmallImage.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "audiLogoSmallImage.png",
       "idiom" : "universal",
       "scale" : "2x"
     },

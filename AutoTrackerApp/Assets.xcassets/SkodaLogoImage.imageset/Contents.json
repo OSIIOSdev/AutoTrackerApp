@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "SkodaLogoImage.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "SkodaLogoImage.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },

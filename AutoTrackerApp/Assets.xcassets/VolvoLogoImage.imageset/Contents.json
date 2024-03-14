@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "VolvoLogoImage.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "VolvoLogoImage.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },

@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "BreakPadsIconImage.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "BreakPadsIconImage.png",
       "idiom" : "universal",
       "scale" : "2x"
     },

@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "AutotrackerLogoImage.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "AutotrackerLogoImage.png",
       "idiom" : "universal",
       "scale" : "2x"
     },

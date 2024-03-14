@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "AUDI Q8 image.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "AUDI Q8 image.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
